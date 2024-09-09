@@ -1,5 +1,4 @@
 # Deploy-js-node-app-on-cluster-with-replicas
-# Deploy Node.js Application on Kubernetes
 
 This repository contains Kubernetes manifests to deploy a simple Node.js application that responds with "Hello from Node.js!" on port 3000. The deployment consists of a `Deployment`, `ReplicaSet`, and a `Service` for exposing the app.
 
